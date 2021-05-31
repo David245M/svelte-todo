@@ -11,5 +11,5 @@
 </script>
 
 <button on:click={onClick} type="button">
-  Delete All
+  Delete All!
 </button>

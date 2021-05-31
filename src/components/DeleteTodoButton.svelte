@@ -8,5 +8,5 @@
 </script>
 
 <button on:click={onClick}>
-  Delete
+  Delete 
 </button>
